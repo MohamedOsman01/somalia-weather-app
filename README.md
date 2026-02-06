@@ -29,14 +29,18 @@ A full-stack weather information system designed to provide real-time weather da
 
 | Task ID | Component | Task Description | Assigned To | Status |
 |---------|-----------|------------------|-------------|--------|
-| SWIS-1 | Backend | Setup Node.js/Express & MongoDB Connection | Lead Dev | Done |
-| SWIS-2 | Backend | Implement User Auth (JWT & Hashing) | Security Dev | Done |
-| SWIS-3 | Backend | Create City & Weather REST APIs | Backend Dev | Done |
-| SWIS-4 | Frontend | Design Core Theme & Blue Sky Gradients | UI/UX Designer | Done |
-| SWIS-5 | Frontend | Implement Role-Based Navigation | Lead Dev | Done |
-| SWIS-6 | Frontend | Admin Dashboard: User/City/Weather Management | Frontend Dev | Done |
-| SWIS-7 | Frontend | User Dashboard: City Selector & Forecast | Frontend Dev | Done |
-| SWIS-8 | Testing | API Verification & Manual App Walkthrough | QA Tester | Done |
+| **SWIS-1** | Backend | Project Architecture & MongoDB Connection Setup | Mohamed | Done |
+| **SWIS-2** | Backend | Core Authentication System (JWT & Hashing) | Mohamed | Done |
+| **SWIS-3** | Backend | Express Middleware & Security Implementation | Mohamed | Done |
+| **SWIS-4** | Backend | Resource APIs (City, User, & Weather CRUD) | Ahmed | Done |
+| **SWIS-5** | Backend | Statistical Data Generation & API Optimization | Ahmed | Done |
+| **SWIS-6** | Backend | Database Seeding (50+ Cities & Records) | Ahmed | Done |
+| **SWIS-7** | Frontend | Premium UI Redesign (Glassmorphism & Gradients) | Yasuu | Done |
+| **SWIS-8** | Frontend | Advanced Scroll Animations & Weather Icons | Yasuu | Done |
+| **SWIS-9** | Frontend | Responsive Weather Dashboard & Forecast Cards | Yasuu | Done |
+| **SWIS-10**| Frontend | Role-Based Navigation & Access Control | Mohamed | Done |
+| **SWIS-11**| Frontend | Admin Management Screens (Users/Cities) | Ahmed | Done |
+| **SWIS-12**| Frontend | Statistics Visualization & Reporting UI | Yasuu | Done |
 
 ## Setup Instructions
 ### Backend
